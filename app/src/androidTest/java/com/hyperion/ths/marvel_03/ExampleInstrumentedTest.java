@@ -1,4 +1,4 @@
-package com.hyperion.ths.mavel_03;
+package com.hyperion.ths.marvel_03;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
